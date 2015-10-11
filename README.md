@@ -9,4 +9,4 @@ and code have to change it to 1 \- 2 \- 3 \- 4 \- 5 \- 6 <br />
 
 >Input two very long number(at least 20 bit each), and try to use LinkList calculate the Anster.
 
-####Author : [aweimeow](http://www.facebook.com/aweimeow "Author's facebook")
+
